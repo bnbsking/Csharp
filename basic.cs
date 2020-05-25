@@ -59,3 +59,14 @@ namespace C_
         }
     }
 }
+
+/*
+environment setting
+install dotnet.sdk and setting its env variable
+VScode:
+    install C# extension
+    select an empty folder
+    new console
+    dotnet run <file.cs>
+    ctrl+shift+P: NuGet if outer package is needed
+*/
